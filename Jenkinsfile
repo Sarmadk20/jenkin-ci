@@ -5,8 +5,8 @@ pipeline {
 
         stage('Build & Test') {
             steps {
-                sh 'javac main.java'
-                sh 'java main'
+                sh 'javac h.java'
+                sh 'java h'
             }
         }
 
