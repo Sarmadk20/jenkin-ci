@@ -1,5 +1,5 @@
 class h{
     public static void main(String[] args) {
-        System.err.println("jenkins");
+        System.out.println("jenkins");
     }
 }
